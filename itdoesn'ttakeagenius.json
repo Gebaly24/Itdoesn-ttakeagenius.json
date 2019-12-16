@@ -1,0 +1,32 @@
+{
+  "name": "Christopher Horger",
+  "picture":"https://www.aus.edu/sites/default/files/5899.JPG",
+  "Ad": [
+    {
+      "Title": "It doesn't take a genius. ",
+      "Content": "Anyone could do it.",
+      "Price": 20
+    },
+    {
+
+       "Title": "Why settle for better when you could settle for the best?",
+      "Content": "Always aim for the best, you deserve it!",
+      "Price": 65
+    },
+    {
+       "Title": "Absolute Power Corrupts... Enjoy!",
+      "Content": "With Great Power Comes Great Responsibility!",
+      "Price": 35
+    },
+    {
+       "Title": "If TV's so bad for you, why is there one in every hospital room?",
+      "Content": "Pretty Ironic Isn't it?",
+      "Price": 102
+    },
+    {
+       "Title": "Before TV, two world wars. After TV, zero.",
+      "Content": "Everyone could use some Dark Humour once in a while...",
+      "Price": 50
+    }
+  ]
+}
